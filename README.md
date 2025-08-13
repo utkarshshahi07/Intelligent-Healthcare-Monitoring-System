@@ -1,4 +1,4 @@
-# PyPower Project - Emotion Detection using AI
+# Emotion Detection using AI
 
 ## Emotion Detection
 
@@ -14,6 +14,3 @@
 
 - Enjoy Deep Learning.
 
-## The detailed tutorial is available in this video. Please do refer for better understanding.
-
-- https://youtu.be/PulKlAZRoAY
