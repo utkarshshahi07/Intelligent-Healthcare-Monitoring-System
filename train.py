@@ -11,7 +11,7 @@ img_rows,img_cols = 224,224
 MobileNet = MobileNet(weights='imagenet',include_top=False,input_shape=(img_rows,img_cols,3))
 
 # Here we freeze the last 4 layers
-# Layers are set to trainable as True by default
+# Layers are set to Trained as True by default
 
 for layer in MobileNet.layers:
     layer.trainable = True
