@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Intelligent Healthcare Monitoring System 🏥💡
 
 An AI-powered healthcare monitoring system that uses **computer vision** and **machine learning** to track patient conditions in real time.  
@@ -61,3 +62,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 👨‍💻 Author
 Gautam Saraswat
 GitHub Profile
+=======
+# Intelligent-Healthcare-Monitoring-System
+>>>>>>> 2694801261dba89584b3c45ed5be10ea52e3fc34
